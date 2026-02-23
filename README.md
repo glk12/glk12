@@ -15,15 +15,9 @@ I am a Software Engineering student at **42 Rio** and an Information Systems stu
 
 ---
 
-### 📊 GitHub Stats
-![Gustavo's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight)
-
----
-
 ### 📫 Contact
 
 I'm always open to discussing web development, algorithm optimization, or the latest in the Python ecosystem.
 
-* **LinkedIn:** [https://www.linkedin.com/in/gustavo-lopes-82b52134a/]([https://www.linkedin.com/in/YOUR_LINKEDIN_URL/](https://www.linkedin.com/in/gustavo-lopes-82b52134a/))
+* **LinkedIn:** [https://www.linkedin.com/in/gustavo-lopes-82b52134a/]((https://www.linkedin.com/in/gustavo-lopes-82b52134a/))
 * **Email:** [glopesaraujo6@gmail.com](mailto:glopesaraujo6@gmail.com)
