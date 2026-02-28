@@ -17,7 +17,5 @@ I am a Software Engineering student at **42 Rio** and an Information Systems stu
 
 ### 📫 Contact
 
-I'm always open to discussing web development, algorithm optimization, or the latest in the Python ecosystem.
-
 * **LinkedIn:** [linkedin.com/in/gustavo-lopes-82b52134a](https://www.linkedin.com/in/gustavo-lopes-82b52134a/)
 * **Email:** [glopesaraujo6@gmail.com](mailto:glopesaraujo6@gmail.com)
