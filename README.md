@@ -1,6 +1,6 @@
 # Hi there, I'm Gustavo Lopes! 👋
 
-I am a Software Developer at @Avantsoft and a Software Engineering student at **42 Rio** and an Information Systems student at **Universidade Veiga de Almeida (UVA)**. Currently specializing in backend web development with a primary focus on the Django framework."
+I am a Software Developer at @Avantsoft and a Software Engineering student at **42 Rio** and an Information Systems student at **Universidade Veiga de Almeida (UVA)**.
 
 ---
 
